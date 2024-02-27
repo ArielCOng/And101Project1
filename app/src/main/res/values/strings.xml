@@ -5,7 +5,7 @@
     <string name="last_name">Ong</string>
     <string name="full_name">%s %s</string>
 
-    <string name="profile_bio_text">This a short bio about myself.\nIt has multiple lines because I am\na complex being.</string>
+    <string name="profile_bio_text">Hi, I am a Computer Science Major\nexploring new things.\n I am currently interested in\nAndroid Development and Cybersecurity.</string>
 
     <string name="profile_hobby_header_text">Greatest Hobbies of All Time:</string>
     <string name="profile_hobby_first_text">🥇 Reading</string>
